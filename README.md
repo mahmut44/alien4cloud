@@ -21,6 +21,9 @@ Alien 4 Cloud is written in java for the backend and requires a JDK 8 or newer (
 - install Ruby
 - install Python
 - install Node.js to get npm command. Check here http://nodejs.org. Note that you need a recent version of npm (2.7.4) in order to build a4c.
+
+BE CAREFUL TO THE PATH !
+
 - install bower  
 ```sh
 $ sudo npm install -g bower
